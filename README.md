@@ -1,0 +1,2 @@
+# python-daily
+好记性不如烂笔头
